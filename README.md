@@ -17,4 +17,5 @@
 ## Notes
 * http://www.supermicro.com/products/accessories/addon/SIM.cfm
 * http://www.supermicro.com/products/motherboard/Xeon1333/5000P/X7DBT-INF.cfm
+* http://www.supermicro.com/products/motherboard/Xeon1333/5000P/X7DBT.cfm
 * https://twiki.cern.ch/twiki/bin/view/FIOgroup/IpmiFirmwareUpgradeSupermicroX7
