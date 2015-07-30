@@ -61,6 +61,9 @@ IPMIView version 2.10.2 can be found on [SuperMicro's FTP - ftp://ftp.supermicro
 |                        | Driver : ftp://ftp.supermicro.com/CDR-SIMIPMI_1.13_for_SIM_IPMI/ |
 |                        | Driver CD Image : ftp://ftp.supermicro.com/CDR_Images/CDR-SIMIPMI_1.13_for_SIM_IPMI.iso |
 
+## X7DBT infos
+
+![Supermicro X7DBT infos](./Super_Micro_Computer%2C_Inc._-_Products_Accessories_Software_Supermicro_Intelligent_Management_-_2015-07-29_17.50.34.png)
 
 ## Notes
 * http://www.supermicro.com/products/accessories/addon/SIM.cfm
