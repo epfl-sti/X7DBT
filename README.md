@@ -4,7 +4,7 @@ Some notes about IPMI on X7DBT mother boards.
 ## Firmware upgrade
 
 ### With IPMIView
-IPMIView version 2.10.2 can be found on [SuperMicro's FTP](ftp://ftp.supermicro.com/utility/IPMIView/)
+IPMIView version 2.10.2 can be found on [SuperMicro's FTP - ftp://ftp.supermicro.com/utility/IPMIView/](ftp://ftp.supermicro.com/utility/IPMIView/)
 
 1. Select the server in IPMIView left tab and go the File menu > Update Firmware
 <br />![Update Firmware](./HowTo/IPMIView/1.png)
