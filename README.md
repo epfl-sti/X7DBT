@@ -42,9 +42,11 @@ IPMIView version 2.10.2 can be found on [SuperMicro's FTP - ftp://ftp.supermicro
 12. And connect to the server to check the firmware version in the IPM Device tab
 <br />![Update Firmware](./HowTo/IPMIView/12.png)
 
-### With IPMItools
+### With IPMItools (cli)
 @TODO
 
+### With IPMI web interface
+@TODO
 
 ## AOC-SIMSO(+)
 | Name                   | Infos           |
@@ -65,3 +67,4 @@ IPMIView version 2.10.2 can be found on [SuperMicro's FTP - ftp://ftp.supermicro
 * http://www.supermicro.com/products/motherboard/Xeon1333/5000P/X7DBT-INF.cfm
 * http://www.supermicro.com/products/motherboard/Xeon1333/5000P/X7DBT.cfm
 * https://twiki.cern.ch/twiki/bin/view/FIOgroup/IpmiFirmwareUpgradeSupermicroX7
+* https://forum.likg.org.ua/ipmi/update-ipmi-firmware-on-supermicro-x7xxx-x8xxx-motheboards-t354.html
